@@ -1,0 +1,17 @@
+[Key]
+API_Key=
+
+[Fingerprint]
+user_agents=
+mac=185e0f791553
+dhcp_fingerprint=
+dhcp6_fingerprint=
+dhcp_vendor=
+dhcp6_enterprise=
+destination_hosts=
+mdns_services=
+upnp_user_agents=
+upnp_server_strings=
+tcp_syn_signatures=
+tcp_syn_ack_signatures=
+hostname=
